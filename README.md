@@ -79,7 +79,7 @@ Designed a full ETL process using SSIS including error handling, incremental loa
 🔹 **Social Media Insights Dashboard**  
 Built a Power BI dashboard using data from Facebook, LinkedIn, X (Twitter), and Instagram. Focused on engagement, impressions, and growth KPIs.
 
-🔹 **Sales Insights Pipeline with Airflow**  
+🔹 **Twitter Data Pipeline with Airflow**  
 Automated data ingestion, transformation, and reporting using Airflow DAGs and MySQL backend.
 
 ---
